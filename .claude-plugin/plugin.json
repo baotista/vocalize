@@ -1,0 +1,8 @@
+{
+  "name": "vocalize",
+  "version": "0.1.0",
+  "description": "Claude énonce à voix haute (synthèse vocale macOS) un résumé ou sa question à la fin de chaque réponse.",
+  "author": { "name": "baotista", "url": "https://github.com/baotista" },
+  "repository": "https://github.com/baotista/vocalize",
+  "keywords": ["voice", "tts", "macos", "say", "notification"]
+}

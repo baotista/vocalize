@@ -1,0 +1,11 @@
+{
+  "name": "vocalize",
+  "owner": { "name": "baotista", "url": "https://github.com/baotista" },
+  "plugins": [
+    {
+      "name": "vocalize",
+      "source": "./",
+      "description": "Claude énonce à voix haute (synthèse vocale macOS) un résumé ou sa question à la fin de chaque réponse."
+    }
+  ]
+}
